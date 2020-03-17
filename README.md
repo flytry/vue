@@ -1,24 +1,6 @@
-# wangyi03
+# 网易严选
 
-## Project setup
-```
-npm install
-```
+#完成各个页面布局搭建
+#完成一级路由跳转
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#使用了vue，vue-router，stylus，node，express，axios技术及vant组件库
